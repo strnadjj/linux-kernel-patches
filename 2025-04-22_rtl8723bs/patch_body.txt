@@ -1,0 +1,15 @@
+subject
+--------------
+staging: rtl8723bs: remove multiple blank lines
+
+
+
+body
+--------------
+
+Adhere to Linux kernel coding style.
+
+Reported by checkpatch:
+
+CHECK: Please don't use multiple blank lines
+
